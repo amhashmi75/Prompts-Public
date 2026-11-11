@@ -1,5 +1,7 @@
 # Code review add-on for the workspace (Codex)
 
+Copyright (c) 2026 Aijaz Hashmi. Released under the MIT licence; see `LICENSE`.
+
 **What this is.** An add-on to the workspace starter prompt. It adds one step to `/checkpoint`: when code was changed in the session, a second AI from a different vendor (OpenAI's Codex) reviews it before the session is saved. Sessions that only touch notes and documents are not affected.
 
 **Before you paste it.**

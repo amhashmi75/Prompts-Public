@@ -1,5 +1,7 @@
 # Workspace starter prompt for Claude Code
 
+Copyright (c) 2026 Aijaz Hashmi. Released under the MIT licence; see `LICENSE`.
+
 **How to use this.** Make or choose a folder that will hold all your projects. Open Claude Code in that folder. Paste everything below the line as your first message. Claude asks four questions, then builds the workspace and shows you what it made. From then on, always start Claude Code in that same folder.
 
 **One thing to expect.** Claude Code guards its own settings folder (`.claude/`), which is where the three commands live. It will stop and ask your permission before writing them. Say yes; the choice that allows edits to this project's `.claude` folder for the session saves being asked three times. Run this in an ordinary session where you can answer, not unattended.
